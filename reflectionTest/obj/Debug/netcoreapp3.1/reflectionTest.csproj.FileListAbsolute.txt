@@ -1,0 +1,11 @@
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\Homework\reflectionTest\bin\Debug\netcoreapp3.1\reflectionTest.exe
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\Homework\reflectionTest\bin\Debug\netcoreapp3.1\reflectionTest.deps.json
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\Homework\reflectionTest\bin\Debug\netcoreapp3.1\reflectionTest.runtimeconfig.json
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\Homework\reflectionTest\bin\Debug\netcoreapp3.1\reflectionTest.runtimeconfig.dev.json
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\Homework\reflectionTest\bin\Debug\netcoreapp3.1\reflectionTest.dll
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\Homework\reflectionTest\bin\Debug\netcoreapp3.1\reflectionTest.pdb
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\Homework\reflectionTest\obj\Debug\netcoreapp3.1\reflectionTest.AssemblyInfoInputs.cache
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\Homework\reflectionTest\obj\Debug\netcoreapp3.1\reflectionTest.AssemblyInfo.cs
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\Homework\reflectionTest\obj\Debug\netcoreapp3.1\reflectionTest.dll
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\Homework\reflectionTest\obj\Debug\netcoreapp3.1\reflectionTest.pdb
+C:\Users\bedoyas.9\Documents\Visual Studio 2019\Homework\reflectionTest\obj\Debug\netcoreapp3.1\reflectionTest.csprojAssemblyReference.cache
